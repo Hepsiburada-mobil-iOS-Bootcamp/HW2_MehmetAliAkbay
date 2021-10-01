@@ -2,7 +2,7 @@
 //  HW2_MehmetAliAkbayUITests.swift
 //  HW2_MehmetAliAkbayUITests
 //
-//  Created by testinium on 1.10.2021.
+//  Created by mehmet ali akbay on 1.10.2021.
 //
 
 import XCTest
